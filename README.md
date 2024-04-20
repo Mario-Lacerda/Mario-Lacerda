@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1300&color=AA42F7&width=435&lines=Ola+DEV!+Seja+bem-vindo+ao+meu+perfil+GitHub!;Prazer%2C+meu+nome+%C3%A9+Mário+Lacerda.)](https://git.io/typing-svg)
-# Mário Pereira Lacerda
+# Mário P. Lacerda
 #### **Engenheiro de Computação - Desenvolvedor Back End** 
 ##### Apaixonado por Tecnologia - em todos o seus alcances. 
 
